@@ -10,9 +10,7 @@
 
 ### Sobre esse repositorio:
 ----------------------------
-
-Aqui vão estar todos os projetos que irei realizar na minha trajetoria dentro do Bootcamp do Santander em parceria com a DIO.
-  Vou deixar listada abaixo os projetos conforme forem sendo feitos. 
+Projeto em JS puro, feito no bootcamp Santander + Dio, para desenvolvimento FULLSTACK. 
   
 
   - Calculadora - Feito em JavaScript na aula da <strong> Prof° Diana Martine </strong>
