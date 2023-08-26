@@ -10,7 +10,8 @@
 
 ### Sobre esse repositorio:
 ----------------------------
-Projeto em JS puro, feito no bootcamp Santander + Dio, para desenvolvimento FULLSTACK. 
+Projeto em JavaScript.
+feito no bootcamp Santander + Dio, para desenvolvimento FULLSTACK. 
   
 
   - Calculadora - Feito em JavaScript na aula da <strong> Prof° Diana Martine </strong>
